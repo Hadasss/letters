@@ -39,7 +39,7 @@ There are no tests for this program.
 - Express.js
 - Node.js
 - React
-- MondoDB
+- MongoDB
 - Mongoose
 - Socket.io
 - bCrypt
